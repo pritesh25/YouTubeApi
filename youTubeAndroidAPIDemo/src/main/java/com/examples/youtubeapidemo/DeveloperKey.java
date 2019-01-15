@@ -15,4 +15,12 @@ public class DeveloperKey {
    */
   public static final String DEVELOPER_KEY = "AIzaSyDmSScmN_Lf2uAlncJWziTyzM6Om59irRs";
 
+
+  //account : vishwakarmapritesh@gmail.com
+
+  //OAuth Client
+  //456285709469-pfovu7ui2sf58crrks48qflbpijuaijp.apps.googleusercontent.com
+
+  //API Key
+  //AIzaSyDmSScmN_Lf2uAlncJWziTyzM6Om59irRs
 }

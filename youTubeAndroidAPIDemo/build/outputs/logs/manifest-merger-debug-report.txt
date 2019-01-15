@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-118:12
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:17:1-116:12
 	package
 		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:18:5-42
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
@@ -21,137 +21,137 @@ INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\Andro
 		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:19:5-28
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-64
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:20-62
+application
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:24:3-114:17
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:24:16-56
+activity#com.examples.youtubeapidemo.YouTubeAPIDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:26:5-34:16
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:28:9-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:29:7-32:23
+action#android.intent.action.MAIN
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:30:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:31:9-69
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:31:19-66
+meta-data#@string/isLaunchableActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:33:7-85
+	android:value
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:33:62-83
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:33:18-61
+activity#com.examples.youtubeapidemo.VideoWallDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:36:5-44:16
+	android:screenOrientation
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:39:9-46
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:37:9-52
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:41:9-70
+	android:theme
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:38:9-46
+meta-data#@string/minVersion
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:42:7-72
+	android:value
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:42:52-70
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:42:18-51
+activity#com.examples.youtubeapidemo.VideoListDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:46:5-52:16
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:47:9-52
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:49:9-70
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:48:9-46
+activity#com.examples.youtubeapidemo.PlayerViewDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:54:5-61:16
+	android:screenOrientation
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:57:9-45
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:55:9-53
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:58:9-70
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:56:9-47
+activity#com.examples.youtubeapidemo.FragmentDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:63:5-70:16
+	android:screenOrientation
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:66:9-45
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:64:9-51
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:67:9-70
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:65:9-45
+activity#com.examples.youtubeapidemo.PlayerControlsDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:72:5-78:16
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:73:9-58
+	android:windowSoftInputMode
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:75:9-50
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:74:9-51
+activity#com.examples.youtubeapidemo.FullscreenDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:80:5-88:16
+	android:screenOrientation
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:83:9-43
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:81:9-53
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:84:9-70
+	android:theme
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:85:9-52
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:82:9-47
+activity#com.examples.youtubeapidemo.ActionBarDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:90:5-98:16
+	android:screenOrientation
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:95:9-52
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:91:9-53
+	android:configChanges
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:93:9-70
+	android:theme
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:94:9-53
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:92:9-46
+activity#com.examples.youtubeapidemo.StandalonePlayerDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:100:5-105:16
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:101:9-60
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:102:9-53
+activity#com.examples.youtubeapidemo.IntentsDemoActivity
+ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:107:5-112:16
+	android:label
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:108:9-50
+	android:name
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:109:9-44
 uses-sdk
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
-INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
+INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:13-42
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:22:3-44
+		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
 		INJECTED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:24:3-64
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:24:20-62
-application
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:26:3-116:17
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:26:16-56
-activity#com.examples.youtubeapidemo.YouTubeAPIDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:28:5-36:16
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:29:9-49
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:30:9-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:31:7-34:23
-action#android.intent.action.MAIN
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:32:9-61
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:32:17-58
-category#android.intent.category.LAUNCHER
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:33:9-69
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:33:19-66
-meta-data#@string/isLaunchableActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:35:7-85
-	android:value
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:35:62-83
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:35:18-61
-activity#com.examples.youtubeapidemo.VideoWallDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:38:5-46:16
-	android:screenOrientation
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:41:9-46
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:39:9-52
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:43:9-70
-	android:theme
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:42:9-48
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:40:9-46
-meta-data#@string/minVersion
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:44:7-72
-	android:value
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:44:52-70
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:44:18-51
-activity#com.examples.youtubeapidemo.VideoListDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:48:5-54:16
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:49:9-52
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:51:9-70
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:50:9-46
-activity#com.examples.youtubeapidemo.PlayerViewDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:56:5-63:16
-	android:screenOrientation
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:59:9-45
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:57:9-53
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:60:9-70
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:58:9-47
-activity#com.examples.youtubeapidemo.FragmentDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:65:5-72:16
-	android:screenOrientation
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:68:9-45
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:66:9-51
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:69:9-70
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:67:9-45
-activity#com.examples.youtubeapidemo.PlayerControlsDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:74:5-80:16
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:75:9-58
-	android:windowSoftInputMode
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:77:9-50
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:76:9-51
-activity#com.examples.youtubeapidemo.FullscreenDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:82:5-90:16
-	android:screenOrientation
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:85:9-43
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:83:9-53
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:86:9-70
-	android:theme
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:87:9-52
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:84:9-47
-activity#com.examples.youtubeapidemo.ActionBarDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:92:5-100:16
-	android:screenOrientation
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:97:9-52
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:93:9-53
-	android:configChanges
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:95:9-70
-	android:theme
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:96:9-53
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:94:9-46
-activity#com.examples.youtubeapidemo.StandalonePlayerDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:102:5-107:16
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:103:9-60
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:104:9-53
-activity#com.examples.youtubeapidemo.IntentsDemoActivity
-ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:109:5-114:16
-	android:label
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:110:9-50
-	android:name
-		ADDED from D:\Vogella Project\YouTubeApi\youTubeAndroidAPIDemo\src\main\AndroidManifest.xml:111:9-44
